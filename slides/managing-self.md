@@ -11,3 +11,13 @@
 * Not too many, not too few
 * Leave time between 
 * Send out notes
+
+----
+
+## Have a system for managing tasks
+<p>You're always making promises, and they need tracking...</p>
+
+* Getting Things Done
+* Personal Kanban
+* approx 1 billion variations
+

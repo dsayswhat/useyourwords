@@ -2,13 +2,23 @@
 
 ----
 
+![](images/synchronous-def.jpg)
+
+----
+
+## Flow needs protection
+
+- 15%-40% efficiency loss when multi-tasking or frequently switching tasks
+- What REALLY needs to happen in real time?  
+
+----
 
 ## Communication methods 
 
 * Video conference: (Google hangout, skype)
-* Chat: irc, IM, Slack
+* Chat: (irc, IM, Slack)
 * Email email
-* Social sharing (yammer, ) 
+* Social sharing (yammer, facebook, twitter) 
 * Collaborative document editings (hackpad, google docs)
 * Actual human contact (in-person retreats, on-sites)
 
@@ -16,18 +26,32 @@
 
 ## Lists and such
 
-* Shared to-do lists ()
-* Team and personal organization (Todoist, Hollyshell, Trello - team and personal organization), 
-* issue queues for tracking project work (Jira, Github, Trac, Unfuddle)
+* Todoist
+* Hollyshell
+* Trello
+* tons of others...
+
+----
+
+## Feedback mechanisms
+
+* Invision
+* Issue queues - Jira, Unfuddle, Github
+* What makes for good feedback?
+  * screenshots
+  * urls
+  * steps to repeat bugs
 
 ---- 
 
-## Setting communication policies for (what should be used for what, and when?):
+## Setting communication policies (What's the right tool?):
+
 * Group Chat
 * Intranet
 * Micro-blogging
 * Internet Telephony - conference calls
 * Video chat
 * IM
+* Email
 * Groupme
-
+* Formal documentation/tickets

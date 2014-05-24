@@ -2,27 +2,19 @@
 
 ---- 
 
-# Communication is hard, and requires effort.  
+## Communication is hard, and requires effort.  
 
 ---- 
 
-# It's even harder when you're a remote employee.  
-
----- 
-
-
-# You have to communicate in a variety of ways, on purpose.
+## It's even harder when you're a remote employee.  
 
 ---- 
 
 
-# More intentional communication benefits co-located teams too.
+## You have to communicate in a variety of ways, on purpose.
 
 ---- 
 
 
-# Here are some practical things we've learned:
-
----- 
-
+## More intentional communication benefits co-located teams too.
 
